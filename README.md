@@ -68,4 +68,8 @@ Roomix employed a **Freemium model**. Basic users could post listings and contac
 
 **PDF File** : [User Journey Gallery](/media/Full_User_Journey.pdf) 🛄
 
+<br />
+
+<p align="right">
 🔙 **[Return to Main Gitbhub Repo](https://github.com/enbatose).**
+</p>
