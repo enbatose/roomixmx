@@ -36,7 +36,7 @@ The **platform was closed** in 2015 due to shifting priorities. Then from 2019 t
 
 <h2> User Interface </h2>
 
-Landing Page: <br/>
+**Landing Page**: <br/>
 <p align="center">
 <img src="/media/landing_page.png" height="80%" width="80%" alt="Landing Page"/>
 <br />
@@ -45,7 +45,8 @@ Landing Page: <br/>
 <br />
 <br />
 </p>
-Search Interface: <br/>
+
+**Search Interface**: <br/>
 <p align="center">
 <img src="/media/search_interface.png" height="80%" width="80%" alt="Search Interface"/>
 <br />
