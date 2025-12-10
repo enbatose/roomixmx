@@ -45,7 +45,7 @@ Roomix employed a **Freemium model**. Basic users could post listings and contac
 
 <br />
 
-<h2> User Interface </h2>
+<h2> 🖥️ User Interface </h2>
 
 **Landing Page**: <br/>
 <p align="center">
@@ -64,6 +64,6 @@ Roomix employed a **Freemium model**. Basic users could post listings and contac
 <br />
 </p>
 
-<h2> Platform Full Experience (Spanish) </h2>
+<h2> 📜 Platform Full Experience (Spanish) </h2>
 
-PDF File: [User Journey Gallery](/media/Full_User_Journey.pdf)
+**PDF File** : [User Journey Gallery](/media/Full_User_Journey.pdf) 🛄
