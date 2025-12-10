@@ -1,9 +1,23 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Roomix.Mx - Marketplace for flat sharing</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+![Roomix_Logo](media/Roomix_Logo_Framed.jpg)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Roomix.Mx was a marketplace platform focused on facilitating the process of finding a tenant to share a property; an appartment or a house. Roomix.Mx was created in 2013 to address a gap in the existing platforms in Mexico where competitors focused on a generic "Craigslist" approach with a poor user interface for the posts, search and aggresive monetization models. 
+
+Roomix centered the marketplace objects in the experience that Roomate seekers live while on their search for a new roomate or a room in a property. The characteristics for publications which enable better search criteria was:
+
+- Gender
+- Age
+- Budget
+- Affinity Tags (E.g. University or Employer)
+- Location
+
+The latter one, **Location** acted as the center of the GUI for searching appartments via a map with pins for available publications, unlike already existing post listing. A map interface was prioritized as our interviews with customers and observed user behavior revealed that other important factors such as price and appereance of the property (Photos) became more flexible relative to location.
+
+<h2>Business Model</h2>
+
+
 <br />
 
 
