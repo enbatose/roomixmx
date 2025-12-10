@@ -4,33 +4,44 @@
   <img src="/media/roomix_logo_framed.jpg" alt="Centered Image" width="200" />
 </p>
 
-<!-- ![Roomix_Logo](/media/roomix_logo_framed.jpg)  -->
 
-<h2>Description</h2>
-Roomix.Mx was a marketplace platform focused on facilitating the process of finding a tenant to share a property; an appartment or a house. Roomix.Mx was created in 2013 to address a gap in the existing platforms in Mexico where competitors focused on a generic "Craigslist" approach with a poor user interface for the posts, search and aggresive monetization models. 
+## 💡 Description: Roomix.Mx
 
-Roomix centered the marketplace objects in the experience that Roomate seekers live while on their search for a new roomate or a room in a property. The characteristics for publications which enable better search criteria was:
+Roomix.Mx was a **specialized marketplace platform** launched in 2013 to streamline the process of finding a **compatible roommate** to share a rental property (apartment or house) in Mexico.
 
-- Gender
-- Age
-- Budget
-- Affinity Tags (E.g. University or Employer)
-- Location
+It was created to address a significant gap in the existing market. Competitors at the time utilized a generic, "Craigslist-style" approach characterized by poor user interfaces for searching and posting, coupled with aggressive monetization models.
 
-The latter one, **Location** acted as the center of the GUI for searching appartments via a map with pins for available publications, unlike already existing post listing. A map interface was prioritized as our interviews with customers and observed user behavior revealed that other important factors such as price and appereance of the property (Photos) became more flexible relative to location.
+Roomix differentiated itself by placing the **roommate-seeking experience** at the core of the platform. Key publication characteristics were implemented to enable superior search and matching criteria:
 
-<h2>Business Model</h2>
+* **Location:** This was the central element of the graphical user interface (GUI), featuring a map with pins for available listings, a departure from standard post listings. This focus was based on customer interviews and observed behavior, which indicated that location was often the most critical factor, making price and property appearance (photos) more flexible in comparison.
+* **Gender**
+* **Age**
+* **Budget**
+* **Affinity Tags** (e.g., University or Employer)
+
+---
+
+## 💰 Business Model and History
 
 **Founders**: [Enrique Batani Oseguera](https://www.linkedin.com/in/enriquebatani/) and [Jesus Mario Verdugo Cedeno](https://www.linkedin.com/in/jmverdugo/).
 
-The platform was intended to operate first in Guadalajara, Mexico. The second largest city in the country and home of ~7M people. Then eventually include other major cities in the country and other potential areas. 
+### Launch & Market Focus
 
-The **monetization** strategy was a Fremium model where the basic free users would be able to create publications and contact owners of publications, which were actioned blocked by competitors at that time behind a paywall. Then, the premium users would would upgrade to an "It's urgent" profile which depending on the user persona.
+The platform initially targeted **Guadalajara, Mexico**, the country's second-largest city with approximately 7 million residents, with eventual plans to expand to other major national and regional cities.
 
-1. Room Seeker: Suscription to receive email and chat notifications about new publications meeting their criteria.
-2. Tenants: Higher visibility on top of the announcements when displayed in list mode, and special pin on the map interface. Also, the ability to open conversations with Room Seekers based on matching property criteria.
+### Monetization Strategy
 
-The **platform was closed** in 2015 due to shifting priorities. Then from 2019 to 2020 Enrique Batani relaunched the platform with a focus on property content quality developing features focused on describing common areas vs dedicated room areas and multi-room properties targeting recurrent users as interviews revealed were part of the ecosystem. The platform operations were closed due to complications during the pandemic.
+Roomix employed a **Freemium model**. Basic users could post listings and contact property owners—actions often blocked behind competitor paywalls. Premium users were offered an **"It's Urgent"** upgrade with features tailored to their persona:
+
+1.  **Room Seekers:** Subscription to receive immediate email and chat notifications about new listings matching their criteria.
+2.  **Tenants (Property Owners):** Higher visibility in list mode and a distinct pin on the map interface. They also gained the ability to initiate conversations with Room Seekers based on matching property criteria.
+
+### Success and Re-launch
+
+* **Peak Performance (Initial Run):** In its first year, Roomix peaked with over **100 active property publications** and more than **1,000 users**, facilitating over **~20 successful rental agreements per month**.
+* **Initial Closure:** The platform was closed in **2015** due to shifting priorities.
+* **Relaunch (2019-2020):** Enrique Batani relaunched the platform, shifting focus to **property content quality**. New features were developed to clearly distinguish between common areas and dedicated room areas in multi-room properties, targeting recurrent users identified through interviews.
+* **Final Closure:** Operations were ultimately closed in **2020** due to complications arising from the COVID-19 pandemic.
 
 <br />
 
