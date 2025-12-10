@@ -70,8 +70,7 @@ Roomix employed a **Freemium model**. Basic users could post listings and contac
 
 <br />
 
-<p align="right">
+<p align="right"> 
 
 🔙 **[Return to Main Gitbhub Repo](https://github.com/enbatose).**
-
 </p>
