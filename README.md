@@ -1,6 +1,6 @@
 <h1>Roomix.Mx - Marketplace for flat sharing</h1>
 
-![Roomix_Logo](/media/Roomix_Logo_Framed.jpg) 
+![Roomix_Logo](/media/roomix_logo_framed.jpg) 
 
 <h2>Description</h2>
 Roomix.Mx was a marketplace platform focused on facilitating the process of finding a tenant to share a property; an appartment or a house. Roomix.Mx was created in 2013 to address a gap in the existing platforms in Mexico where competitors focused on a generic "Craigslist" approach with a poor user interface for the posts, search and aggresive monetization models. 
