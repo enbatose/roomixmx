@@ -1,7 +1,7 @@
 <h1>Roomix.Mx - Marketplace for flat sharing</h1>
 
 <p align="center">
-  <img src="/media/roomix_logo_framed.jpg" alt="Centered Image" width="400" />
+  <img src="/media/roomix_logo_framed.jpg" alt="Centered Image" width="200" />
 </p>
 
 <!-- ![Roomix_Logo](/media/roomix_logo_framed.jpg)  -->
