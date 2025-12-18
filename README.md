@@ -9,7 +9,7 @@
 
 Roomix.Mx was a **specialized marketplace platform** launched in 2013 to streamline the process of finding a **compatible roommate** to share a rental property (apartment or house) in Mexico.
 
-It was created to address a significant gap in the existing market. Competitors at the time utilized a generic, "Craigslist-style" approach, characterized by poor user interfaces for searching and posting, coupled with aggressive monetization models.
+It was created to address a significant gap in the existing market. Competitors at the time utilized a generic, "Craigslist-style" approach characterized by poor user interfaces for searching and posting, coupled with aggressive monetization models.
 
 Roomix differentiated itself by placing the **roommate-seeking experience** at the core of the platform. Key publication characteristics were implemented to enable superior search and matching criteria:
 
