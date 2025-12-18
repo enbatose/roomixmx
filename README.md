@@ -23,7 +23,7 @@ Roomix differentiated itself by placing the **roommate-seeking experience** at t
 
 ## 💰 Business Model and History
 
-**Founders**: [Enrique Batani Oseguera](https://www.linkedin.com/in/enriquebatani/) and [Jesus Mario Verdugo Cedeno](https://www.linkedin.com/in/jmverdugo/).
+**Founders**: [Enrique Batani Oseguera](https://www.linkedin.com/in/enriquebatani/) and [Jesus Mario Verdugo Cedeno](https://github.com/jmcedeno1). 
 
 ### Launch & Market Focus
 
